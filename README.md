@@ -8,10 +8,10 @@ Ensure that the following packages are installed follow configuration
 
 THE sudo commands are all performed in the terminal:
 
-sudo apt-get install vim
-sudo apt-get install aptitude
-sudo apt-get install apache2
-sudo apt-get install php7.0 libapache2-mod-php7.0
+sudo apt-get install vim/
+sudo apt-get install aptitude/
+sudo apt-get install apache2/
+sudo apt-get install php7.0 libapache2-mod-php7.0/
 sudo apt-get install git
 sudo apt-get install gitk
 sudo apt-get install mysql-server
